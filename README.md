@@ -2,4 +2,4 @@
 
 I love thinking. I love mom.
 
-![](1.jpg =500x)
+![](1.jpg =100x)
