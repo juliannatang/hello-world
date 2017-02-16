@@ -2,4 +2,4 @@
 
 I love thinking. I love mom.
 
-![](1.jpg | width=500)
+<img src="1.jpg" alt="thinking" width="300"/>
